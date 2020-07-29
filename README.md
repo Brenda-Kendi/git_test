@@ -1,0 +1,1 @@
+This is Kendi's first git project!
